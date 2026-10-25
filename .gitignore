@@ -1,0 +1,5 @@
+# never commit your Google OAuth client or tokens
+client_secret*.json
+*.token.json
+.youtube-operator/
+__pycache__/

@@ -1,0 +1,13 @@
+{
+  "name": "readystack-youtube",
+  "description": "ReadyStack — YouTube Channel Operator (free Lite)",
+  "owner": { "name": "ReadyStack", "url": "https://getreadystack.com" },
+  "plugins": [
+    {
+      "name": "yt-operator-lite",
+      "source": "./plugins/yt-operator-lite",
+      "description": "Free: your YouTube week in one command, computed from your own channel - last 7 days vs the 7 before, every new video vs your median at the same age, one fix; chapters and upload-text checks.",
+      "category": "productivity"
+    }
+  ]
+}

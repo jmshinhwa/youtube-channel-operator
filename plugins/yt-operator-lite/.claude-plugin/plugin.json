@@ -1,0 +1,21 @@
+{
+  "name": "yt-operator-lite",
+  "displayName": "YouTube Channel Operator (Lite)",
+  "version": "1.0.0",
+  "description": "Free: your YouTube week in one command - last 7 days vs the 7 before, every new video vs your own median at the same age (engaged views, Shorts and long-form apart), one fix; plus chapters and upload-text checks. Scripts compute from your own channel (Python standard library, read-only sign-in with your own Google OAuth client); Claude only orchestrates. en/de/es/pt/ja.",
+  "author": {
+    "name": "ReadyStack",
+    "url": "https://getreadystack.com"
+  },
+  "homepage": "https://getreadystack.com/apps/youtube-channel-operator-skill-pack/",
+  "repository": "https://github.com/jmshinhwa/youtube-channel-operator",
+  "license": "MIT",
+  "keywords": [
+    "youtube",
+    "youtube-analytics",
+    "creator",
+    "shorts",
+    "chapters",
+    "weekly-report"
+  ]
+}
